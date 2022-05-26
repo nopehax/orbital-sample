@@ -1,0 +1,100 @@
+{
+    "Students": [
+        {
+            "name": "Farren West",
+            "type": "INFP",
+            "mods": ["math", "music", "chinese", "science", "english", "chemistry", "physics", "biology", "arts"],
+            "paired": false
+        },
+        {
+            "name": "Kendall Stafford",
+            "type": "ESTJ",
+            "mods": ["chinese", "science", "english"],
+            "paired": false
+        },
+        {
+            "name": "Riley Kline",
+            "type": "ESFP",
+            "mods": ["english", "chemistry", "physics", "biology"],
+            "paired": false
+        },
+        {
+            "name": "Rory Sexton",
+            "type": "ISTJ",
+            "mods": ["math", "music"],
+            "paired": false
+        },
+        {
+            "name": "Vasquez Robbins",
+            "type": "ISTP",
+            "mods": ["science", "english"],
+            "paired": false
+        },
+        {
+            "name": "Harper Foreman",
+            "type": "ESTP",
+            "mods": ["geography", "science", "math"],
+            "paired": false
+        },
+        {
+            "name": "Bates Black",
+            "type": "INFJ",
+            "mods": ["physics", "biology"],
+            "paired": false
+        },
+        {
+            "name": "Addison Allen",
+            "type": "INTP",
+            "mods": ["chinese", "science", "english", "chemistry", "physics", "biology", "arts"],
+            "paired": false
+        },
+        {
+            "name": "Hildred Patrick",
+            "type": "ENTP",
+            "mods": ["physics", "math"],
+            "paired": false
+        },
+        {
+            "name": "Asra Simmons",
+            "type": "ENFP",
+            "mods": ["english"],
+            "paired": false
+        },
+        {
+            "name": "Kendall Stafford",
+            "type": "ENTJ",
+            "mods": ["music", "chinese", "science"],
+            "paired": false
+        },
+        {
+            "name": "Mildred Church",
+            "type": "INTJ",
+            "mods": ["biology", "science", "arts"],
+            "paired": false
+        },
+        {
+            "name": "Jamie Solomon",
+            "type": "ESFJ",
+            "mods": ["arts", "math", "english"],
+            "paired": false
+        },
+        {
+            "name": "Shawn Burke",
+            "type": "ISFP",
+            "mods": ["chinese", "english"],
+            "paired": false
+        },
+        {
+            "name": "Kaylor William",
+            "type": "ISTJ",
+            "mods": [],
+            "paired": false
+        },
+        {
+            "name": "Jo Rosales",
+            "type": "ENFJ",
+            "mods": ["computer science", "business"],
+            "paired": false
+        }
+    ]
+}
